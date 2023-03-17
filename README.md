@@ -52,3 +52,5 @@ $$O(n)$$ by using the HashMap to store the inorder indices.
 - Space complexity:
 <!-- Add your space complexity here, e.g. $$O(n)$$ -->
 $$O(n)$$ where n is the number of nodes in the tree.
+
+![Screenshot 2023-03-17 114857](https://user-images.githubusercontent.com/28766618/225791524-9053c1c7-586e-4e7a-ae3c-958f5a59a3d9.png)
